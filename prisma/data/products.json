@@ -1,0 +1,2753 @@
+{
+  "products": [
+    {
+      "id": "wig-360-001",
+      "name": "360 HD Lace Frontal Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "360",
+      "price": 22000,
+      "sku": "WIG-360-001",
+      "rating": 5,
+      "reviews": 89,
+      "description": "Full 360 frontal for versatile styling (ponytails, buns). Silky straight.",
+      "image": "/assets/wigs/360/360_wigs_HD_and_frontlace1.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-360-002",
+      "name": "360 HD Lace Frontal Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "360",
+      "price": 26000,
+      "sku": "WIG-360-002",
+      "rating": 4.8,
+      "reviews": 45,
+      "description": "Premium 360 frontal wig with natural hairline. Perfect for high ponytails.",
+      "image": "/assets/wigs/360/360_wigs_HD_and_frontlace2.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-360-003",
+      "name": "360 HD Lace Frontal Wig - Style C",
+      "category": "Wigs",
+      "subCategory": "360",
+      "price": 85000,
+      "discountPrice": 2000,
+      "sku": "WIG-360-003",
+      "rating": 5,
+      "reviews": 67,
+      "description": "Luxury 360 lace wig, pre-plucked with baby hairs. Glueless installation.",
+      "image": "/assets/wigs/360/360_wigs_HD_and_frontlace3.jpg",
+      "video": "/assets/wigs/360/360_wigs_HD_and_frontlace4.mp4",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-bob-001",
+      "name": "Short Bob Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 8500,
+      "sku": "WIG-BOB-001",
+      "rating": 4.5,
+      "reviews": 32,
+      "description": "Chic and stylish short bob wig. Perfect for everyday wear.",
+      "image": "/assets/wigs/bob/bob_wigs4.jfif",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-bob-002",
+      "name": "Short Bob Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 9200,
+      "sku": "WIG-BOB-002",
+      "rating": 4.6,
+      "reviews": 28,
+      "description": "Elegant short bob with natural movement. Easy to style.",
+      "image": "/assets/wigs/bob/bob_wigs15.jfif",
+      "tags": []
+    },
+    {
+      "id": "wig-bob-003",
+      "name": "Short Bob Wig - Style C",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 9000,
+      "sku": "WIG-BOB-003",
+      "rating": 4.7,
+      "reviews": 41,
+      "description": "Premium bob wig with silk-like texture.",
+      "image": "/assets/wigs/bob/bob_wigs17.jfif",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-bob-004",
+      "name": "Short Bob Wig - Style D",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 19000,
+      "discountPrice": 8000,
+      "sku": "WIG-BOB-004",
+      "rating": 4.8,
+      "reviews": 55,
+      "description": "Luxurious bob wig with natural-looking hairline.",
+      "image": "/assets/wigs/bob/bob_wigs20.jfif",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-bob-005",
+      "name": "Short Bob Pixie Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 9000,
+      "sku": "WIG-BOB-005",
+      "rating": 4.5,
+      "reviews": 22,
+      "description": "Classic pixie bob wig for a timeless look.",
+      "image": "/assets/wigs/bob/pixie_wig1.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-bob-006",
+      "name": "Short Bob Pixie Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 8000,
+      "sku": "WIG-BOB-006",
+      "rating": 4.6,
+      "reviews": 18,
+      "description": "Modern pixie bob with soft curls at the ends.",
+      "image": "/assets/wigs/bob/pixie_wig2.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-bob-007",
+      "name": "Short Bob Pixie Wig - Style C",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 8000,
+      "sku": "WIG-BOB-007",
+      "rating": 4.4,
+      "reviews": 15,
+      "description": "Versatile pixie bob wig suitable for any occasion.",
+      "image": "/assets/wigs/bob/pixie_wig3.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-bob-008",
+      "name": "Short Bob Pixie Wig - Style D",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 20000,
+      "sku": "WIG-BOB-008",
+      "rating": 4.7,
+      "reviews": 36,
+      "description": "Sleek pixie bob with a beautiful shine finish.",
+      "image": "/assets/wigs/bob/pixie_wig4.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-bob-009",
+      "name": "Short Bob Pixie Wig - Style E",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 12000,
+      "sku": "WIG-BOB-009",
+      "rating": 4.5,
+      "reviews": 24,
+      "description": "Lightweight pixie bob for comfortable all-day wear.",
+      "image": "/assets/wigs/bob/pixie_wig5.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-bob-010",
+      "name": "Short Bob Pixie Wig - Style F",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 10000,
+      "sku": "WIG-BOB-010",
+      "rating": 4.8,
+      "reviews": 42,
+      "description": "Premium quality pixie bob with natural density.",
+      "image": "/assets/wigs/bob/pixie_wig6.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-bob-011",
+      "name": "Short Bob Pixie Wig - Style G",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 7000,
+      "sku": "WIG-BOB-011",
+      "rating": 4.6,
+      "reviews": 29,
+      "description": "Elegant layered pixie bob for a sophisticated look.",
+      "image": "/assets/wigs/bob/pixie_wig7.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-bob-012",
+      "name": "Short Bob Pixie Wig - Style H",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 7000,
+      "sku": "WIG-BOB-012",
+      "rating": 4.5,
+      "reviews": 19,
+      "description": "Classic straight pixie bob with smooth texture.",
+      "image": "/assets/wigs/bob/pixie_wig8.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-bob-013",
+      "name": "Short Bob Pixie Wig - Style I",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 9400,
+      "discountPrice": 8500,
+      "sku": "WIG-BOB-013",
+      "rating": 4.9,
+      "reviews": 58,
+      "description": "Best-selling pixie bob with incredible softness.",
+      "image": "/assets/wigs/bob/pixie_wig9.jpg",
+      "tags": [
+        "sale",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-bob-014",
+      "name": "Short Bob Pixie Wig - Style J",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 8800,
+      "sku": "WIG-BOB-014",
+      "rating": 4.4,
+      "reviews": 21,
+      "description": "Trendy pixie bob perfect for a fresh new look.",
+      "image": "/assets/wigs/bob/pixie_wig10.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-bob-015",
+      "name": "Short Bob Pixie Wig - Style K",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 10000,
+      "sku": "WIG-BOB-015",
+      "rating": 4.6,
+      "reviews": 33,
+      "description": "Stylish pixie bob with beautiful bounce.",
+      "image": "/assets/wigs/bob/pixie_wig11.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-bob-016",
+      "name": "Short Bob Pixie Wig - Style L",
+      "category": "Wigs",
+      "subCategory": "Bob",
+      "price": 8700,
+      "sku": "WIG-BOB-016",
+      "rating": 4.5,
+      "reviews": 16,
+      "description": "Natural-looking pixie bob for everyday elegance.",
+      "image": "/assets/wigs/bob/pixie_wig12.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-afro-001",
+      "name": "Natural Afro Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "Afro Wigs",
+      "price": 16000,
+      "sku": "WIG-AFRO-001",
+      "rating": 4.9,
+      "reviews": 78,
+      "description": "Beautiful natural afro texture. Perfect for a bold statement look.",
+      "image": "/assets/wigs/afro_wigs/afro1.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-afro-002",
+      "name": "Natural Afro Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "Afro Wigs",
+      "price": 18000,
+      "sku": "WIG-AFRO-002",
+      "rating": 4.8,
+      "reviews": 52,
+      "description": "Full and voluminous afro wig. Lightweight and comfortable.",
+      "image": "/assets/wigs/afro_wigs/afro2.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-afro-003",
+      "name": "Natural Afro Wig - Style C",
+      "category": "Wigs",
+      "subCategory": "Afro Wigs",
+      "price": 12000,
+      "discountPrice": 11500,
+      "sku": "WIG-AFRO-003",
+      "rating": 4.7,
+      "reviews": 39,
+      "description": "Premium afro wig with natural-looking coils.",
+      "image": "/assets/wigs/afro_wigs/afro3.jpg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-afro-004",
+      "name": "Natural Afro Wig - Style D",
+      "category": "Wigs",
+      "subCategory": "Afro Wigs",
+      "price": 6000,
+      "sku": "WIG-AFRO-004",
+      "rating": 4.6,
+      "reviews": 28,
+      "description": "Soft and bouncy afro texture for everyday wear.",
+      "image": "/assets/wigs/afro_wigs/afro4.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-afro-005",
+      "name": "Natural Afro Wig - Style E",
+      "category": "Wigs",
+      "subCategory": "Afro Wigs",
+      "price": 16000,
+      "sku": "WIG-AFRO-005",
+      "rating": 4.9,
+      "reviews": 65,
+      "description": "Statement afro wig with incredible volume and definition.",
+      "image": "/assets/wigs/afro_wigs/afro5.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-jerry-001",
+      "name": "Jerry Curl Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly",
+      "price": 28000,
+      "sku": "WIG-JERRY-001",
+      "rating": 4.7,
+      "reviews": 43,
+      "description": "Classic jerry curl pattern with beautiful definition.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs1.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-jerry-002",
+      "name": "Jerry Curl Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly",
+      "price": 16000,
+      "discountPrice": 14000,
+      "sku": "WIG-JERRY-002",
+      "rating": 4.8,
+      "reviews": 56,
+      "description": "Premium jerry curl wig with soft, touchable curls.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs2.jpg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-jerry-003",
+      "name": "Jerry Curl Wig - Style C",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly",
+      "price": 20000,
+      "discountPrice": 14500,
+      "sku": "WIG-JERRY-003",
+      "rating": 4.9,
+      "reviews": 60,
+      "description": "Premium jerry curl wig with soft, touchable curls.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs3.jpg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-jerry-004",
+      "name": "Jerry Curl Wig - Style D",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly",
+      "price": 6000,
+      "sku": "WIG-JERRY-004",
+      "rating": 4.8,
+      "reviews": 56,
+      "description": "Premium jerry curl wig with soft, touchable curls.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs4.jpg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-jerry-005",
+      "name": "Jerry Curl Wig - Style E",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly",
+      "price": 14000,
+      "sku": "WIG-JERRY-005",
+      "rating": 4.8,
+      "reviews": 56,
+      "description": "Premium jerry curl wig with soft, touchable curls.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs5.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-colored-001",
+      "name": "Colored Fashion Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 20000,
+      "sku": "WIG-COLOR-001",
+      "rating": 4.8,
+      "reviews": 67,
+      "description": "Bold colored wig for a unique fashion statement.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs1.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-colored-002",
+      "name": "Colored Fashion Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 4000,
+      "sku": "WIG-COLOR-002",
+      "rating": 4.7,
+      "reviews": 45,
+      "description": "Vibrant colored wig with HD lace front.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs2.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-colored-003",
+      "name": "Colored Fashion Wig - Style C",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 12000,
+      "sku": "WIG-COLOR-003",
+      "rating": 4.9,
+      "reviews": 82,
+      "description": "Stunning colored wig for special occasions.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs3.jpg",
+      "tags": [
+        "sale",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-colored-004",
+      "name": "Colored Fashion Wig - Style D",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 12000,
+      "sku": "WIG-COLOR-004",
+      "rating": 4.6,
+      "reviews": 34,
+      "description": "Trendy colored wig with natural-looking roots.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs4.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-005",
+      "name": "Colored Fashion Wig - Style E",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 20000,
+      "sku": "WIG-COLOR-005",
+      "rating": 4.7,
+      "reviews": 38,
+      "description": "Gorgeous colored wig with seamless lace front.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs5.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-006",
+      "name": "Colored Fashion Wig - Style F",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 30000,
+      "sku": "WIG-COLOR-006",
+      "rating": 4.8,
+      "reviews": 51,
+      "description": "Premium colored wig with vibrant tones and soft texture.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs6.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-colored-007",
+      "name": "Colored Fashion Wig - Style G",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 28000,
+      "sku": "WIG-COLOR-007",
+      "rating": 4.5,
+      "reviews": 29,
+      "description": "Eye-catching colored wig for bold fashion statements.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs7.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-008",
+      "name": "Colored Fashion Wig - Style H",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 10000,
+      "sku": "WIG-COLOR-008",
+      "rating": 4.9,
+      "reviews": 72,
+      "description": "Luxury colored wig with gradient tones.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs8.jpg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-colored-009",
+      "name": "Colored Fashion Wig - Style I",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 12000,
+      "sku": "WIG-COLOR-009",
+      "rating": 4.6,
+      "reviews": 41,
+      "description": "Playful colored wig for creative expression.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs9.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-colored-010",
+      "name": "Colored Fashion Wig - Style J",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 22000,
+      "sku": "WIG-COLOR-010",
+      "rating": 4.7,
+      "reviews": 55,
+      "description": "Versatile colored wig that suits any skin tone.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs10.jpg",
+      "tags": [
+        "trending"
+      ]
+    },
+    {
+      "id": "wig-colored-011",
+      "name": "Colored Fashion Wig - Style K",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 22000,
+      "sku": "WIG-COLOR-011",
+      "rating": 4.8,
+      "reviews": 63,
+      "description": "Stunning ombre colored wig with silky texture.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs11.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-012",
+      "name": "Colored Fashion Wig - Style L",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 4000,
+      "sku": "WIG-COLOR-012",
+      "rating": 4.9,
+      "reviews": 77,
+      "description": "Premium highlight colored wig for a salon-quality look.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs12.jpg",
+      "tags": [
+        "sale",
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-colored-013",
+      "name": "Colored Fashion Wig - Style M",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 22000,
+      "sku": "WIG-COLOR-013",
+      "rating": 4.5,
+      "reviews": 31,
+      "description": "Chic colored wig with natural baby hairs.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs13.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-014",
+      "name": "Colored Fashion Wig - Style N",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 28000,
+      "sku": "WIG-COLOR-014",
+      "rating": 4.6,
+      "reviews": 44,
+      "description": "Elegant colored wig with HD transparency lace.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs14.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-015",
+      "name": "Colored Fashion Wig - Style O",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 16000,
+      "sku": "WIG-COLOR-015",
+      "rating": 4.7,
+      "reviews": 48,
+      "description": "Radiant colored wig for parties and events.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs15.jpg",
+      "tags": [
+        "trending"
+      ]
+    },
+    {
+      "id": "wig-colored-016",
+      "name": "Colored Fashion Wig - Style P",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 28000,
+      "discountPrice": 17500,
+      "sku": "WIG-COLOR-016",
+      "rating": 4.8,
+      "reviews": 59,
+      "description": "Luxurious multi-tone colored wig.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs16.jpg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-colored-017",
+      "name": "Colored Fashion Wig - Style Q",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 22000,
+      "sku": "WIG-COLOR-017",
+      "rating": 4.5,
+      "reviews": 26,
+      "description": "Subtle colored highlights for a natural look.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs17.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-018",
+      "name": "Colored Fashion Wig - Style R",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 28000,
+      "sku": "WIG-COLOR-018",
+      "rating": 4.6,
+      "reviews": 37,
+      "description": "Beautifully blended colored wig with adjustable strap.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs18.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-019",
+      "name": "Colored Fashion Wig - Style S",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 22000,
+      "sku": "WIG-COLOR-019",
+      "rating": 4.7,
+      "reviews": 52,
+      "description": "Gorgeous two-tone colored wig with body wave pattern.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs19.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-colored-020",
+      "name": "Colored Fashion Wig - Style T",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 4000,
+      "sku": "WIG-COLOR-020",
+      "rating": 4.9,
+      "reviews": 88,
+      "description": "Top-rated colored wig with pre-plucked hairline.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs20.jpg",
+      "tags": [
+        "sale",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-colored-021",
+      "name": "Colored Fashion Wig - Style U",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 22000,
+      "sku": "WIG-COLOR-021",
+      "rating": 4.5,
+      "reviews": 33,
+      "description": "Cool-toned colored wig for everyday glamour.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs21.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-022",
+      "name": "Colored Fashion Wig - Style V",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 5000,
+      "sku": "WIG-COLOR-022",
+      "rating": 4.7,
+      "reviews": 46,
+      "description": "Warm-toned colored wig with flawless blend.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs22.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-colored-023",
+      "name": "Colored Fashion Wig - Style W",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 26000,
+      "sku": "WIG-COLOR-023",
+      "rating": 4.8,
+      "reviews": 61,
+      "description": "Showstopping colored wig for maximum impact.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs23.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-colored-024",
+      "name": "Colored Fashion Wig - Style X",
+      "category": "Wigs",
+      "subCategory": "Colored",
+      "price": 24000,
+      "sku": "WIG-COLOR-024",
+      "rating": 4.4,
+      "reviews": 22,
+      "description": "Affordable colored wig without compromising quality.",
+      "image": "/assets/wigs/colored_wigs/colored_wigs24.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-jerry-bundles-001",
+      "name": "Jerry Curl Wig Bundle - Style A",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly Bundles",
+      "price": 17500,
+      "sku": "WIG-JERRY-BUNDLE-001",
+      "rating": 4.6,
+      "reviews": 34,
+      "description": "Complete jerry curl bundle set for a full look.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs_and_bundles1.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-jerry-bundles-002",
+      "name": "Jerry Curl Wig Bundle - Style B",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly Bundles",
+      "price": 17500,
+      "sku": "WIG-JERRY-BUNDLE-002",
+      "rating": 4.6,
+      "reviews": 34,
+      "description": "Premium jerry curl bundle with tight curl pattern.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs_and_bundles2.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-jerry-bundles-003",
+      "name": "Jerry Curl Wig Bundle - Style C",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly Bundles",
+      "price": 17500,
+      "sku": "WIG-JERRY-BUNDLE-003",
+      "rating": 4.6,
+      "reviews": 34,
+      "description": "Luxurious jerry curl bundle for lasting curls.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs_and_bundles3.jpg",
+      "tags": []
+    },
+    {
+      "id": "wig-jerry-bundles-004",
+      "name": "Jerry Curl Wig Bundle - Style D",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly Bundles",
+      "price": 17500,
+      "sku": "WIG-JERRY-BUNDLE-004",
+      "rating": 4.6,
+      "reviews": 34,
+      "description": "Versatile jerry curl bundle for multiple styling options.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs_and_bundles4.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-jerry-bundles-005",
+      "name": "Jerry Curl Wig Bundle - Style E",
+      "category": "Wigs",
+      "subCategory": "Jerry Curly Bundles",
+      "price": 17500,
+      "sku": "WIG-JERRY-BUNDLE-005",
+      "rating": 4.6,
+      "reviews": 34,
+      "description": "Value bundle with defined jerry curl pattern.",
+      "image": "/assets/wigs/jerry_curly/jerry_curly_wigs_and_bundles5.jpg",
+      "tags": []
+    },
+    {
+      "id": "kinky_wigs-001",
+      "name": "Kinky Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "Kinky",
+      "price": 28000,
+      "sku": "WIG-KINKY-001",
+      "rating": 4.6,
+      "reviews": 34,
+      "description": "Natural kinky texture wig with realistic appearance.",
+      "image": "/assets/wigs/kinky/kinky_wigs1.jpg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "kinky_wigs-002",
+      "name": "Kinky Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "Kinky",
+      "price": 16000,
+      "sku": "WIG-KINKY-002",
+      "rating": 4.6,
+      "reviews": 34,
+      "description": "Premium kinky wig with beautiful coils.",
+      "image": "/assets/wigs/kinky/kinky_wigs2.jpg",
+      "video": "/assets/wigs/kinky/kinky_wig_video1.mp4",
+      "tags": []
+    },
+    {
+      "id": "wig-pixie-001",
+      "name": "Pixie Cut Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 4000,
+      "sku": "WIG-PIXIE-001",
+      "rating": 4.7,
+      "reviews": 45,
+      "description": "Chic and modern pixie cut wig. Perfect for a bold, confident look.",
+      "image": "/assets/wigs/pixie/pixie2.jpeg",
+      "video": "/assets/wigs/pixie/pixie1.mp4",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-pixie-002",
+      "name": "Pixie Cut Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 3000,
+      "sku": "WIG-PIXIE-002",
+      "rating": 4.6,
+      "reviews": 38,
+      "description": "Elegant pixie cut with natural-looking texture.",
+      "image": "/assets/wigs/pixie/pixie3.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-pixie-003",
+      "name": "Pixie Cut Wig - Style C",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 4000,
+      "sku": "WIG-PIXIE-003",
+      "rating": 4.8,
+      "reviews": 52,
+      "description": "Premium pixie wig with soft, silky texture. Lightweight comfort.",
+      "image": "/assets/wigs/pixie/pixie4.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-pixie-004",
+      "name": "Pixie Cut Wig - Style D",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 2500,
+      "sku": "WIG-PIXIE-004",
+      "rating": 4.5,
+      "reviews": 29,
+      "description": "Classic pixie style for a timeless, sophisticated appearance.",
+      "image": "/assets/wigs/pixie/pixie5.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-pixie-005",
+      "name": "Pixie Cut Wig - Style E",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 2500,
+      "sku": "WIG-PIXIE-005",
+      "rating": 4.9,
+      "reviews": 67,
+      "description": "Best-selling pixie cut with beautiful layered styling.",
+      "image": "/assets/wigs/pixie/pixie6.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-pixie-006",
+      "name": "Pixie Cut Wig - Style F",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 3000,
+      "sku": "WIG-PIXIE-006",
+      "rating": 4.6,
+      "reviews": 33,
+      "description": "Trendy pixie with side-swept bangs. Perfect for any face shape.",
+      "image": "/assets/wigs/pixie/pixie7.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-pixie-007",
+      "name": "Pixie Cut Wig - Style G",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 5000,
+      "sku": "WIG-PIXIE-007",
+      "rating": 4.7,
+      "reviews": 41,
+      "description": "Modern pixie with textured layers for added volume.",
+      "image": "/assets/wigs/pixie/pixie8.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-pixie-008",
+      "name": "Pixie Cut Wig - Style H",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 5000,
+      "sku": "WIG-PIXIE-008",
+      "rating": 4.4,
+      "reviews": 22,
+      "description": "Lightweight pixie wig ideal for everyday wear.",
+      "image": "/assets/wigs/pixie/pixie9.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-pixie-009",
+      "name": "Pixie Cut Wig - Style I",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 5000,
+      "sku": "WIG-PIXIE-009",
+      "rating": 4.8,
+      "reviews": 58,
+      "description": "Luxurious pixie with HD lace front for seamless blending.",
+      "image": "/assets/wigs/pixie/pixie10.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-pixie-010",
+      "name": "Pixie Cut Wig - Style J",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 2500,
+      "sku": "WIG-PIXIE-010",
+      "rating": 4.5,
+      "reviews": 27,
+      "description": "Stylish pixie with natural-looking density.",
+      "image": "/assets/wigs/pixie/pixie11.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-pixie-011",
+      "name": "Pixie Cut Wig - Style K",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 5000,
+      "sku": "WIG-PIXIE-011",
+      "rating": 4.6,
+      "reviews": 35,
+      "description": "Versatile pixie that can be styled multiple ways.",
+      "image": "/assets/wigs/pixie/pixie12.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-pixie-012",
+      "name": "Pixie Cut Wig - Style L",
+      "category": "Wigs",
+      "subCategory": "Pixie",
+      "price": 2000,
+      "sku": "WIG-PIXIE-012",
+      "rating": 4.9,
+      "reviews": 72,
+      "description": "Premium pixie cut with exceptional quality and shine.",
+      "image": "/assets/wigs/pixie/pixie13.jpeg",
+      "tags": [
+        "featured",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-body-001",
+      "name": "Body Wave Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "Body",
+      "price": 20000,
+      "sku": "WIG-BODY-001",
+      "rating": 4.8,
+      "reviews": 67,
+      "description": "Gorgeous body wave wig with natural flowing curls.",
+      "image": "/assets/wigs/body/body_wave1.jpeg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-body-002",
+      "name": "Body Wave Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "Body",
+      "price": 18000,
+      "sku": "WIG-BODY-002",
+      "rating": 4.7,
+      "reviews": 52,
+      "description": "Premium body wave wig with HD lace front.",
+      "image": "/assets/wigs/body/body_wave2.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-body-003",
+      "name": "Body Wave Wig - Style C",
+      "category": "Wigs",
+      "subCategory": "Body",
+      "price": 24000,
+      "discountPrice": 21000,
+      "sku": "WIG-BODY-003",
+      "rating": 4.9,
+      "reviews": 78,
+      "description": "Luxury body wave wig pre-plucked with baby hairs.",
+      "image": "/assets/wigs/body/body_wave4.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-body-004",
+      "name": "Body Wave Wig - Style D",
+      "category": "Wigs",
+      "subCategory": "Body",
+      "price": 22500,
+      "sku": "WIG-BODY-004",
+      "rating": 4.6,
+      "reviews": 43,
+      "description": "Beautiful body wave wig for everyday glamour.",
+      "image": "/assets/wigs/body/body_wave5.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-body-005",
+      "name": "Body Wave Wig - Style E",
+      "category": "Wigs",
+      "subCategory": "Body",
+      "price": 23500,
+      "sku": "WIG-BODY-005",
+      "rating": 4.8,
+      "reviews": 61,
+      "description": "Exquisite body wave wig with natural luster.",
+      "image": "/assets/wigs/body/body_wave6.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-body-006",
+      "name": "Body Wave Wig - Style F",
+      "category": "Wigs",
+      "subCategory": "Body",
+      "price": 22800,
+      "sku": "WIG-BODY-006",
+      "rating": 4.5,
+      "reviews": 35,
+      "description": "Soft body wave wig with adjustable straps.",
+      "image": "/assets/wigs/body/body_wave7.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-body-007",
+      "name": "Body Wave Wig - Style G",
+      "category": "Wigs",
+      "subCategory": "Body",
+      "price": 24500,
+      "sku": "WIG-BODY-007",
+      "rating": 4.7,
+      "reviews": 48,
+      "description": "Premium long body wave wig for dramatic styling.",
+      "image": "/assets/wigs/body/body_wave8.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-body-008",
+      "name": "Body Wave Wig - Style H",
+      "category": "Wigs",
+      "subCategory": "Body",
+      "price": 23200,
+      "sku": "WIG-BODY-008",
+      "rating": 4.6,
+      "reviews": 39,
+      "description": "Glueless body wave wig for easy installation.",
+      "image": "/assets/wigs/body/body_wave9.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-body-009",
+      "name": "Body Wave Wig - Premium Long",
+      "category": "Wigs",
+      "subCategory": "Body",
+      "price": 25000,
+      "discountPrice": 22000,
+      "sku": "WIG-BODY-009",
+      "rating": 4.9,
+      "reviews": 85,
+      "description": "Extra-long body wave wig for maximum volume.",
+      "image": "/assets/wigs/body/body_wave35.jpeg",
+      "tags": [
+        "sale",
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-hd-001",
+      "name": "HD Lace Wig - Premium",
+      "category": "Wigs",
+      "subCategory": "HD",
+      "price": 28000,
+      "sku": "WIG-HD-001",
+      "rating": 4.9,
+      "reviews": 91,
+      "description": "Ultra-thin HD lace wig for invisible hairline. Premium quality.",
+      "image": "/assets/wigs/hd/hd_wigs1.jpeg",
+      "video": "/assets/wigs/hd/hd_wigs2.mp4",
+      "tags": [
+        "featured",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-waterwave-001",
+      "name": "Water Wave Deep Wig - Style A",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 20000,
+      "sku": "WIG-WW-001",
+      "rating": 4.8,
+      "reviews": 56,
+      "description": "Beautiful deep water wave wig with natural bounce.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep2.jfif",
+      "video": "/assets/wigs/water_waves_deep/water_waves_deep1.mp4",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "wig-waterwave-002",
+      "name": "Water Wave Deep Wig - Style B",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 10000,
+      "sku": "WIG-WW-002",
+      "rating": 4.7,
+      "reviews": 44,
+      "description": "Premium water wave deep wig with luscious curls.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep4.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-waterwave-003",
+      "name": "Water Wave Deep Wig - Style C",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 14000,
+      "sku": "WIG-WW-003",
+      "rating": 4.9,
+      "reviews": 72,
+      "description": "Luxury water wave deep wig with pre-plucked hairline.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep5.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "wig-waterwave-004",
+      "name": "Water Wave Deep Wig - Style D",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 30000,
+      "sku": "WIG-WW-004",
+      "rating": 4.6,
+      "reviews": 38,
+      "description": "Breathtaking water wave deep wig for any occasion.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep6.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-waterwave-005",
+      "name": "Water Wave Deep Wig - Style E",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 25000,
+      "sku": "WIG-WW-005",
+      "rating": 4.7,
+      "reviews": 51,
+      "description": "Elegant water wave wig with HD lace front.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep7.jpeg",
+      "video": "/assets/wigs/water_waves_deep/water_waves_deep3.mp4",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "wig-waterwave-006",
+      "name": "Water Wave Deep Wig - Style F",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 20800,
+      "sku": "WIG-WW-006",
+      "rating": 4.5,
+      "reviews": 31,
+      "description": "Soft water wave wig with natural-looking density.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep8.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-waterwave-007",
+      "name": "Water Wave Deep Wig - Style G",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 16000,
+      "sku": "WIG-WW-007",
+      "rating": 4.8,
+      "reviews": 65,
+      "description": "Premium deep water wave wig for glamorous styling.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep9.jpeg",
+      "tags": [
+        "sale",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "wig-waterwave-008",
+      "name": "Water Wave Deep Wig - Style H",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 18000,
+      "sku": "WIG-WW-008",
+      "rating": 4.6,
+      "reviews": 42,
+      "description": "Glueless water wave wig with adjustable cap.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep10.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-waterwave-009",
+      "name": "Water Wave Deep Wig - Style I",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 18000,
+      "sku": "WIG-WW-009",
+      "rating": 4.7,
+      "reviews": 47,
+      "description": "Versatile water wave wig for everyday wear.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep11.jpeg",
+      "tags": []
+    },
+    {
+      "id": "wig-waterwave-010",
+      "name": "Water Wave Deep Wig - Style J",
+      "category": "Wigs",
+      "subCategory": "Water Waves Deep",
+      "price": 14000,
+      "sku": "WIG-WW-010",
+      "rating": 4.9,
+      "reviews": 78,
+      "description": "Extra-long water wave wig for dramatic red carpet looks.",
+      "image": "/assets/wigs/water_waves_deep/water_waves_deep12.jpeg",
+      "video": "/assets/wigs/water_waves_deep/water_waves_deep22.mp4",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "closure-body-001",
+      "name": "Body Wave 4x4 Closure - Style A",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 3800,
+      "sku": "CLOSURE-BODY-001",
+      "rating": 4.7,
+      "reviews": 89,
+      "description": "Premium body wave 4x4 closure with natural luster.",
+      "image": "/assets/closures/body/closures_4x4_bodywave1.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "closure-body-002",
+      "name": "Body Wave 4x4 Closure - Style B",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 3800,
+      "sku": "CLOSURE-BODY-002",
+      "rating": 4.8,
+      "reviews": 65,
+      "description": "Luxurious body wave closure for a glamorous, flowing look.",
+      "image": "/assets/closures/body/closures_4x4_bodywave2.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "closure-body-003",
+      "name": "Body Wave 4x4 Closure - 12 inch",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 4000,
+      "sku": "CLOSURE-BODY-003",
+      "rating": 4.6,
+      "reviews": 78,
+      "description": "Natural body wave closure with HD lace. Perfect blend.",
+      "image": "/assets/closures/body/closures_4x4_bodywave3.jpeg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "closure-body-004",
+      "name": "Body Wave 4x4 Closure - 14 inch",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 3800,
+      "sku": "CLOSURE-BODY-004",
+      "rating": 4.7,
+      "reviews": 56,
+      "description": "Silky body wave closure for a natural, elegant finish.",
+      "image": "/assets/closures/body/closures_4x4_bodywave4.jpeg",
+      "tags": []
+    },
+    {
+      "id": "closure-body-005",
+      "name": "Body Wave 4x4 Closure - 16 inch",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 4000,
+      "sku": "CLOSURE-BODY-005",
+      "rating": 4.8,
+      "reviews": 67,
+      "description": "Premium body wave closure with pre-plucked hairline.",
+      "image": "/assets/closures/body/closures_4x4_bodywave5.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "closure-body-006",
+      "name": "Body Wave 4x4 Closure - 18 inch",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 4500,
+      "sku": "CLOSURE-BODY-006",
+      "rating": 4.5,
+      "reviews": 45,
+      "description": "Long body wave closure for glamorous styles.",
+      "image": "/assets/closures/body/closures_4x4_bodywave6.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "closure-body-007",
+      "name": "Body Wave 4x4 Closure - 20 inch",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 6000,
+      "sku": "CLOSURE-BODY-007",
+      "rating": 4.6,
+      "reviews": 34,
+      "description": "Extra long body wave closure for dramatic styles.",
+      "image": "/assets/closures/body/closures_4x4_bodywave7.jpeg",
+      "tags": []
+    },
+    {
+      "id": "closure-body-008",
+      "name": "Body Wave 5x5 HD Closure",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 12000,
+      "sku": "CLOSURE-BODY-008",
+      "rating": 4.9,
+      "reviews": 89,
+      "description": "Larger HD lace closure for more parting space.",
+      "image": "/assets/closures/body/closures_4x4_bodywave8.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "closure-body-009",
+      "name": "Body Wave 6x6 Closure",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 14000,
+      "sku": "CLOSURE-BODY-009",
+      "rating": 4.8,
+      "reviews": 56,
+      "description": "Extra large closure for maximum styling versatility.",
+      "image": "/assets/closures/body/closures_4x4_bodywave9.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "closure-body-010",
+      "name": "Body Wave Closure - Natural Brown",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 3500,
+      "sku": "CLOSURE-BODY-010",
+      "rating": 4.5,
+      "reviews": 42,
+      "description": "Body wave closure in natural brown shade.",
+      "image": "/assets/closures/body/closures_4x4_bodywave10.jpeg",
+      "tags": []
+    },
+    {
+      "id": "closure-body-011",
+      "name": "Body Wave Bundle Deal - 3pc",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 10500,
+      "sku": "CLOSURE-BODY-011",
+      "rating": 4.9,
+      "reviews": 123,
+      "description": "3 bundles body wave deal. Great value for full head install.",
+      "image": "/assets/closures/body/closures_4x4_bodywave11.jpeg",
+      "tags": [
+        "sale",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "closure-body-012",
+      "name": "Body Wave Bundle Deal - 4pc",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 14000,
+      "sku": "CLOSURE-BODY-012",
+      "rating": 4.8,
+      "reviews": 98,
+      "description": "4 bundles body wave deal for extra fullness.",
+      "image": "/assets/closures/body/closures_4x4_bodywave12.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "closure-body-013",
+      "name": "Body Wave Premium Closure",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 6800,
+      "sku": "CLOSURE-BODY-013",
+      "rating": 4.7,
+      "reviews": 51,
+      "description": "Premium body wave closure with transparent lace.",
+      "image": "/assets/closures/body/closures_4x4_bodywave13.jpeg",
+      "tags": []
+    },
+    {
+      "id": "closure-body-014",
+      "name": "Body Wave Luxury Closure",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 7200,
+      "sku": "CLOSURE-BODY-014",
+      "rating": 4.8,
+      "reviews": 62,
+      "description": "Luxury body wave closure with pre-bleached knots.",
+      "image": "/assets/closures/body/closures_4x4_bodywave14.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "closure-body-015",
+      "name": "Body Wave Classic Closure",
+      "category": "Closures 4x4",
+      "subCategory": "Body",
+      "price": 5500,
+      "sku": "CLOSURE-BODY-015",
+      "rating": 4.6,
+      "reviews": 38,
+      "description": "Classic body wave closure with natural parting.",
+      "image": "/assets/closures/body/closure_bodywave1.jpg",
+      "tags": []
+    },
+    {
+      "id": "closure-curly-001",
+      "name": "Curly 4x4 Closure - Style A",
+      "category": "Closures 4x4",
+      "subCategory": "Curly",
+      "price": 5500,
+      "sku": "CLOSURE-CURLY-001",
+      "rating": 4.6,
+      "reviews": 42,
+      "description": "Beautiful curly frontal 4x4 closure with tight, defined curls.",
+      "image": "/assets/closures/curly/curly_frontal_4x4_closure1.jpeg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "closure-curly-002",
+      "name": "Curly 4x4 Closure - Style B",
+      "category": "Closures 4x4",
+      "subCategory": "Curly",
+      "price": 5800,
+      "sku": "CLOSURE-CURLY-002",
+      "rating": 4.7,
+      "reviews": 38,
+      "description": "Premium curly closure for seamless blending.",
+      "image": "/assets/closures/curly/curly_frontal_4x4_closure2.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "closure-straight-001",
+      "name": "Straight 13x4 Closure - Style A",
+      "category": "Closures 4x4",
+      "subCategory": "Straight",
+      "price": 5500,
+      "sku": "CLOSURE-STR-001",
+      "rating": 4.7,
+      "reviews": 42,
+      "description": "Sleek straight hair closure for a polished, professional look.",
+      "image": "/assets/closures/straight/staright_13x4_closure1.jpeg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "closure-straight-002",
+      "name": "Straight 13x4 Closure - Style B",
+      "category": "Closures 4x4",
+      "subCategory": "Straight",
+      "price": 5800,
+      "sku": "CLOSURE-STR-002",
+      "rating": 4.6,
+      "reviews": 38,
+      "description": "Premium straight closure with natural hairline. Perfect blend.",
+      "image": "/assets/closures/straight/staright_13x4_closure2.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "weave-body-001",
+      "name": "Body Wave Hair Bundle - Style A",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 8100,
+      "sku": "WEAVE-BODY-001",
+      "rating": 4.7,
+      "reviews": 89,
+      "description": "Premium body wave hair bundle. 100% human hair with natural luster.",
+      "image": "/assets/weaves/body/body_hair_bundles1.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "weave-body-002",
+      "name": "Body Wave Hair Bundle - Style B",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 8100,
+      "discountPrice": 6200,
+      "sku": "WEAVE-BODY-002",
+      "rating": 4.8,
+      "reviews": 65,
+      "description": "Luxurious body wave bundle for a glamorous, flowing look.",
+      "image": "/assets/weaves/body/body_hair_bundles2.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "weave-body-003",
+      "name": "Body Wave Hair Bundle - Style C",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 4500,
+      "sku": "WEAVE-BODY-003",
+      "rating": 4.6,
+      "reviews": 52,
+      "description": "Silky body wave bundle with natural movement.",
+      "image": "/assets/weaves/body/body_hair_bundles3.jpeg",
+      "tags": []
+    },
+    {
+      "id": "weave-body-004",
+      "name": "Body Wave Hair Bundle - Style D",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 3100,
+      "sku": "WEAVE-BODY-004",
+      "rating": 4.7,
+      "reviews": 46,
+      "description": "Premium grade body wave bundle for salon-quality results.",
+      "image": "/assets/weaves/body/body_hair_bundles4.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "weave-body-005",
+      "name": "Body Wave Hair Bundle - Style E",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 2800,
+      "sku": "WEAVE-BODY-005",
+      "rating": 4.5,
+      "reviews": 38,
+      "description": "Affordable body wave bundle with excellent quality.",
+      "image": "/assets/weaves/body/body_hair_bundles5.jpeg",
+      "tags": []
+    },
+    {
+      "id": "weave-body-006",
+      "name": "Body Wave Hair Bundle - Style F",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 3700,
+      "sku": "WEAVE-BODY-006",
+      "rating": 4.8,
+      "reviews": 71,
+      "description": "Top-tier body wave bundle with tangle-free guarantee.",
+      "image": "/assets/weaves/body/body_hair_bundles6.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "weave-body-007",
+      "name": "Body Wave Hair Bundle - Style G",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 2800,
+      "sku": "WEAVE-BODY-007",
+      "rating": 4.6,
+      "reviews": 44,
+      "description": "Beautiful body wave bundle with soft, natural texture.",
+      "image": "/assets/weaves/body/body_hair_bundles7.jpeg",
+      "tags": []
+    },
+    {
+      "id": "weave-body-008",
+      "name": "Body Wave Hair Bundle - Style H",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 2000,
+      "sku": "WEAVE-BODY-008",
+      "rating": 4.9,
+      "reviews": 88,
+      "description": "Premium body wave 3-bundle deal for full coverage.",
+      "image": "/assets/weaves/body/body_hair_bundles8.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "weave-body-009",
+      "name": "Body Wave Bundle - High Quality A",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 2000,
+      "sku": "WEAVE-BODY-009",
+      "rating": 4.9,
+      "reviews": 95,
+      "description": "Ultra-premium body wave bundle. Superior quality.",
+      "image": "/assets/weaves/body/hair_bundles_of_high_quality1.jfif",
+      "video": "/assets/weaves/body/hair_bundles_of_high_quality.mp4",
+      "tags": [
+        "featured",
+        "bestseller"
+      ]
+    },
+    {
+      "id": "weave-body-010",
+      "name": "Body Wave Bundle - High Quality B",
+      "category": "Weaves",
+      "subCategory": "Body",
+      "price": 4000,
+      "sku": "WEAVE-BODY-010",
+      "rating": 4.8,
+      "reviews": 82,
+      "description": "Premium high-quality body wave bundle with lasting curls.",
+      "image": "/assets/weaves/body/hair_bundles_of_high_quality2.jfif",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "weave-afro-001",
+      "name": "Afro Bulk Weave - Style A",
+      "category": "Weaves",
+      "subCategory": "Afro Bulk",
+      "price": 5500,
+      "sku": "WEAVE-AFRO-001",
+      "rating": 4.6,
+      "reviews": 41,
+      "description": "Colored afro bulk weave for braiding and crochet styles.",
+      "image": "/assets/weaves/afro_bulk/colored_1.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "weave-afro-002",
+      "name": "Afro Bulk Weave - Style B",
+      "category": "Weaves",
+      "subCategory": "Afro Bulk",
+      "price": 4500,
+      "sku": "WEAVE-AFRO-002",
+      "rating": 4.7,
+      "reviews": 35,
+      "description": "Vibrant afro bulk weave for unique styling.",
+      "image": "/assets/weaves/afro_bulk/colored_2.jpg",
+      "tags": []
+    },
+    {
+      "id": "weave-afro-003",
+      "name": "Afro Bulk Weave - Style C",
+      "category": "Weaves",
+      "subCategory": "Afro Bulk",
+      "price": 5500,
+      "discountPrice": 5200,
+      "sku": "WEAVE-AFRO-003",
+      "rating": 4.8,
+      "reviews": 52,
+      "description": "Premium colored afro bulk for natural-looking crochet.",
+      "image": "/assets/weaves/afro_bulk/colored_3.jpg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "weave-afro-004",
+      "name": "Afro Bulk Weave - Style D",
+      "category": "Weaves",
+      "subCategory": "Afro Bulk",
+      "price": 3000,
+      "sku": "WEAVE-AFRO-004",
+      "rating": 4.5,
+      "reviews": 28,
+      "description": "Soft afro bulk weave with natural coil pattern.",
+      "image": "/assets/weaves/afro_bulk/colored_4.jpg",
+      "tags": []
+    },
+    {
+      "id": "weave-braids-001",
+      "name": "Braiding Hair",
+      "category": "Weaves",
+      "subCategory": "Braids",
+      "price": 250,
+      "sku": "WEAVE-BRAID-001",
+      "rating": 4.5,
+      "reviews": 67,
+      "description": "Premium braiding hair for box braids and twists.",
+      "image": "/assets/weaves/braids/braid1.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "weave-jerry-001",
+      "name": "Jerry Curl Hair Bundle - Style A",
+      "category": "Weaves",
+      "subCategory": "Jerry",
+      "price": 4000,
+      "sku": "WEAVE-JERRY-001",
+      "rating": 4.6,
+      "reviews": 42,
+      "description": "Defined jerry curl bundles with lasting curl pattern.",
+      "image": "/assets/weaves/jerry/jerry_curly_hair_bundles1.jpeg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "weave-jerry-002",
+      "name": "Jerry Curl Hair Bundle - Style B",
+      "category": "Weaves",
+      "subCategory": "Jerry",
+      "price": 3000,
+      "sku": "WEAVE-JERRY-002",
+      "rating": 4.7,
+      "reviews": 38,
+      "description": "Soft and bouncy jerry curl bundles.",
+      "image": "/assets/weaves/jerry/jerry_curly_hair_bundles2.jpeg",
+      "tags": []
+    },
+    {
+      "id": "weave-jerry-003",
+      "name": "Jerry Curl Hair Bundle - Style C",
+      "category": "Weaves",
+      "subCategory": "Jerry",
+      "price": 2800,
+      "sku": "WEAVE-JERRY-003",
+      "rating": 4.8,
+      "reviews": 55,
+      "description": "Premium jerry curl bundles with natural sheen.",
+      "image": "/assets/weaves/jerry/jerry_curly_hair_bundles3.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "weave-jerry-004",
+      "name": "Jerry Curl Hair Bundle - Style D",
+      "category": "Weaves",
+      "subCategory": "Jerry",
+      "price": 4000,
+      "sku": "WEAVE-JERRY-004",
+      "rating": 4.5,
+      "reviews": 29,
+      "description": "Classic jerry curl bundles for beautiful installs.",
+      "image": "/assets/weaves/jerry/jerry_curly_hair_bundles4.jpeg",
+      "tags": []
+    },
+    {
+      "id": "weave-jerry-005",
+      "name": "Jerry Curl Hair Bundle - Style E",
+      "category": "Weaves",
+      "subCategory": "Jerry",
+      "price": 6000,
+      "sku": "WEAVE-JERRY-005",
+      "rating": 4.9,
+      "reviews": 67,
+      "description": "Best-selling jerry curl bundles with incredible definition.",
+      "image": "/assets/weaves/jerry/jerry_curly_hair_bundles5.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "weave-jerry-006",
+      "name": "Jerry Curl Hair Bundle - Style F",
+      "category": "Weaves",
+      "subCategory": "Jerry",
+      "price": 3000,
+      "sku": "WEAVE-JERRY-006",
+      "rating": 4.7,
+      "reviews": 48,
+      "description": "Premium jerry curl bundles with HD lace.",
+      "image": "/assets/weaves/jerry/jerry_curly_hair_bundles6.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "weave-kinky-str-001",
+      "name": "Kinky Straight Natural Bundle - A",
+      "category": "Weaves",
+      "subCategory": "Kinky Straight",
+      "price": 5500,
+      "sku": "WEAVE-KINKY-STR-001",
+      "rating": 4.6,
+      "reviews": 35,
+      "description": "Natural kinky straight bundles mimicking relaxed African hair.",
+      "image": "/assets/weaves/kinky_straight/straight_kinky_natural_bundles1.jfif",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "weave-kinky-str-002",
+      "name": "Kinky Straight Natural Bundle - B",
+      "category": "Weaves",
+      "subCategory": "Kinky Straight",
+      "price": 6000,
+      "sku": "WEAVE-KINKY-STR-002",
+      "rating": 4.7,
+      "reviews": 41,
+      "description": "Premium kinky straight bundles with natural texture.",
+      "image": "/assets/weaves/kinky_straight/straight_kinky_natural_bundles2.jfif",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "weave-kinky-str-003",
+      "name": "Kinky Straight Natural Bundle - C",
+      "category": "Weaves",
+      "subCategory": "Kinky Straight",
+      "price": 7800,
+      "discountPrice": 5900,
+      "sku": "WEAVE-KINKY-STR-003",
+      "rating": 4.8,
+      "reviews": 58,
+      "description": "Luxury kinky straight bundles with pre-bleached knots.",
+      "image": "/assets/weaves/kinky_straight/straight_kinky_natural_bundles3.jfif",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "weave-kinky-str-004",
+      "name": "Kinky Straight Natural Bundle - D",
+      "category": "Weaves",
+      "subCategory": "Kinky Straight",
+      "price": 4000,
+      "sku": "WEAVE-KINKY-STR-004",
+      "rating": 4.5,
+      "reviews": 28,
+      "description": "Affordable kinky straight bundles with tangle-free guarantee.",
+      "image": "/assets/weaves/kinky_straight/straight_kinky_natural_bundles4.jfif",
+      "tags": []
+    },
+    {
+      "id": "weave-straight-001",
+      "name": "Straight Hair Bundle - Style A",
+      "category": "Weaves",
+      "subCategory": "Straight",
+      "price": 10000,
+      "sku": "WEAVE-STR-001",
+      "rating": 4.7,
+      "reviews": 56,
+      "description": "Silky straight hair bundle with natural shine.",
+      "image": "/assets/weaves/straight/straight_hair101.jpg",
+      "video": "/assets/weaves/straight/straight_hair102.mp4",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "weave-straight-002",
+      "name": "Straight Hair Bundle - Style B",
+      "category": "Weaves",
+      "subCategory": "Straight",
+      "price": 11000,
+      "sku": "WEAVE-STR-002",
+      "rating": 4.6,
+      "reviews": 42,
+      "description": "Premium straight bundle for a polished look.",
+      "image": "/assets/weaves/straight/straight_hair103.jfif",
+      "tags": []
+    },
+    {
+      "id": "weave-straight-003",
+      "name": "Straight Hair Bundle - Style C",
+      "category": "Weaves",
+      "subCategory": "Straight",
+      "price": 14000,
+      "discountPrice": 5500,
+      "sku": "WEAVE-STR-003",
+      "rating": 4.8,
+      "reviews": 68,
+      "description": "Bone straight bundle with glass-like smoothness.",
+      "image": "/assets/weaves/straight/straight_hair104.jfif",
+      "video": "/assets/weaves/straight/straight_hair105.mp4",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "weave-straight-004",
+      "name": "Straight Hair Bundle - Style D",
+      "category": "Weaves",
+      "subCategory": "Straight",
+      "price": 7000,
+      "sku": "WEAVE-STR-004",
+      "rating": 4.5,
+      "reviews": 31,
+      "description": "Natural straight bundle for versatile styling.",
+      "image": "/assets/weaves/straight/straight_hair107.jpg",
+      "video": "/assets/weaves/straight/straight_hair106.mp4",
+      "tags": []
+    },
+    {
+      "id": "weave-straight-005",
+      "name": "Straight Hair Bundle - Style E",
+      "category": "Weaves",
+      "subCategory": "Straight",
+      "price": 5000,
+      "sku": "WEAVE-STR-005",
+      "rating": 4.7,
+      "reviews": 47,
+      "description": "Premium straight bundle with minimal shedding.",
+      "image": "/assets/weaves/straight/straight_hair108.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "weave-straight-006",
+      "name": "Straight Hair Bundle - Style F",
+      "category": "Weaves",
+      "subCategory": "Straight",
+      "price": 6000,
+      "sku": "WEAVE-STR-006",
+      "rating": 4.6,
+      "reviews": 39,
+      "description": "Luxury straight bundle for a sleek finish.",
+      "image": "/assets/weaves/straight/straight_hair109.jpg",
+      "tags": []
+    },
+    {
+      "id": "weave-straight-007",
+      "name": "Straight Hair Bundle - Style G",
+      "category": "Weaves",
+      "subCategory": "Straight",
+      "price": 7100,
+      "sku": "WEAVE-STR-007",
+      "rating": 4.8,
+      "reviews": 54,
+      "description": "Classic straight bundle with tangle-free guarantee.",
+      "image": "/assets/weaves/straight/straight_hair110.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "cosmetic-body-001",
+      "name": "Nourishing Body Lotion",
+      "category": "Cosmetics",
+      "subCategory": "Body Care",
+      "price": 1200,
+      "sku": "COSM-BODY-001",
+      "rating": 4.5,
+      "reviews": 89,
+      "description": "Deeply moisturizing body lotion for soft, supple skin all day.",
+      "image": "/assets/cosmetics/body_care/body1.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "cosmetic-body-002",
+      "name": "Exfoliating Body Scrub",
+      "category": "Cosmetics",
+      "subCategory": "Body Care",
+      "price": 1500,
+      "sku": "COSM-BODY-002",
+      "rating": 4.6,
+      "reviews": 67,
+      "description": "Gentle exfoliating scrub to remove dead skin and reveal radiant skin.",
+      "image": "/assets/cosmetics/body_care/body2.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "cosmetic-body-003",
+      "name": "Shea Butter Body Cream",
+      "category": "Cosmetics",
+      "subCategory": "Body Care",
+      "price": 1800,
+      "discountPrice": 1500,
+      "sku": "COSM-BODY-003",
+      "rating": 4.8,
+      "reviews": 112,
+      "description": "Rich shea butter cream for intense hydration and skin nourishment.",
+      "image": "/assets/cosmetics/body_care/body3.jpg",
+      "tags": [
+        "sale",
+        "featured"
+      ]
+    },
+    {
+      "id": "cosmetic-body-004",
+      "name": "Body Oil Serum",
+      "category": "Cosmetics",
+      "subCategory": "Body Care",
+      "price": 2200,
+      "sku": "COSM-BODY-004",
+      "rating": 4.7,
+      "reviews": 54,
+      "description": "Luxurious body oil for a radiant glow and silky smooth skin.",
+      "image": "/assets/cosmetics/body_care/body4.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-body-005",
+      "name": "Hydrating Body Wash",
+      "category": "Cosmetics",
+      "subCategory": "Body Care",
+      "price": 950,
+      "sku": "COSM-BODY-005",
+      "rating": 4.4,
+      "reviews": 78,
+      "description": "Gentle, sulfate-free body wash that cleanses without stripping moisture.",
+      "image": "/assets/cosmetics/body_care/body5.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-collagen-001",
+      "name": "Collagen Peptides Supplement - A",
+      "category": "Cosmetics",
+      "subCategory": "Collagen Peptides",
+      "price": 11500,
+      "sku": "COSM-COLL-001",
+      "rating": 4.8,
+      "reviews": 89,
+      "description": "Premium collagen peptides for skin, hair, and nail health.",
+      "image": "/assets/cosmetics/collagen_peptides/collagen_peptides1.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "cosmetic-collagen-002",
+      "name": "Collagen Peptides Supplement - B",
+      "category": "Cosmetics",
+      "subCategory": "Collagen Peptides",
+      "price": 3250,
+      "sku": "COSM-COLL-002",
+      "rating": 4.7,
+      "reviews": 72,
+      "description": "Advanced collagen formula for youthful, glowing skin.",
+      "image": "/assets/cosmetics/collagen_peptides/collagen_peptides2.jpeg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "cosmetic-collagen-003",
+      "name": "Collagen Peptides Supplement - C",
+      "category": "Cosmetics",
+      "subCategory": "Collagen Peptides",
+      "price": 3250,
+      "sku": "COSM-COLL-003",
+      "rating": 4.9,
+      "reviews": 105,
+      "description": "Ultra-strength collagen peptides for maximum anti-aging benefits.",
+      "image": "/assets/cosmetics/collagen_peptides/collagen_peptides3.jpeg",
+      "tags": [
+        "sale"
+      ]
+    },
+    {
+      "id": "cosmetic-collagen-004",
+      "name": "Collagen Peptides Supplement - D",
+      "category": "Cosmetics",
+      "subCategory": "Collagen Peptides",
+      "price": 4500,
+      "sku": "COSM-COLL-004",
+      "rating": 4.6,
+      "reviews": 58,
+      "description": "Daily collagen supplement for improved skin elasticity.",
+      "image": "/assets/cosmetics/collagen_peptides/collagen_peptides4.jpeg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "cosmetic-face-001",
+      "name": "Vitamin C Face Serum",
+      "category": "Cosmetics",
+      "subCategory": "Facial Care",
+      "price": 500,
+      "sku": "COSM-FACE-001",
+      "rating": 4.8,
+      "reviews": 156,
+      "description": "Brightening vitamin C serum for radiant, even-toned skin.",
+      "image": "/assets/cosmetics/facial_care/face1.jpg",
+      "tags": [
+        "bestseller",
+        "featured"
+      ]
+    },
+    {
+      "id": "cosmetic-face-002",
+      "name": "Hyaluronic Acid Moisturizer",
+      "category": "Cosmetics",
+      "subCategory": "Facial Care",
+      "price": 800,
+      "sku": "COSM-FACE-002",
+      "rating": 4.7,
+      "reviews": 98,
+      "description": "Deep hydration moisturizer with hyaluronic acid for plump, dewy skin.",
+      "image": "/assets/cosmetics/facial_care/face2.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "cosmetic-face-003",
+      "name": "Gentle Face Cleanser",
+      "category": "Cosmetics",
+      "subCategory": "Facial Care",
+      "price": 500,
+      "sku": "COSM-FACE-003",
+      "rating": 4.5,
+      "reviews": 87,
+      "description": "Gentle, pH-balanced cleanser suitable for all skin types.",
+      "image": "/assets/cosmetics/facial_care/face3.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-face-004",
+      "name": "Retinol Night Cream",
+      "category": "Cosmetics",
+      "subCategory": "Facial Care",
+      "price": 500,
+      "sku": "COSM-FACE-004",
+      "rating": 4.9,
+      "reviews": 134,
+      "description": "Anti-aging retinol cream for smoother, younger-looking skin.",
+      "image": "/assets/cosmetics/facial_care/face4.jpg",
+      "tags": [
+        "sale",
+        "featured"
+      ]
+    },
+    {
+      "id": "cosmetic-face-005",
+      "name": "SPF 50 Sunscreen",
+      "category": "Cosmetics",
+      "subCategory": "Facial Care",
+      "price": 500,
+      "sku": "COSM-FACE-005",
+      "rating": 4.6,
+      "reviews": 201,
+      "description": "Lightweight, non-greasy sunscreen with broad-spectrum protection.",
+      "image": "/assets/cosmetics/facial_care/face5.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-001",
+      "name": "Argan Oil Hair Serum",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1500,
+      "sku": "COSM-HAIR-001",
+      "rating": 4.7,
+      "reviews": 189,
+      "description": "Nourishing argan oil serum for shiny, frizz-free hair.",
+      "image": "/assets/cosmetics/hair_care/hair1.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-002",
+      "name": "Deep Conditioning Mask",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1800,
+      "sku": "COSM-HAIR-002",
+      "rating": 4.8,
+      "reviews": 145,
+      "description": "Intensive hair mask for dry, damaged hair. Restores moisture and shine.",
+      "image": "/assets/cosmetics/hair_care/hair2.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-003",
+      "name": "Sulfate-Free Shampoo",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1200,
+      "sku": "COSM-HAIR-003",
+      "rating": 4.5,
+      "reviews": 234,
+      "description": "Gentle, sulfate-free shampoo that cleanses without stripping natural oils.",
+      "image": "/assets/cosmetics/hair_care/hair3.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-004",
+      "name": "Leave-In Conditioner",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 500,
+      "sku": "COSM-HAIR-004",
+      "rating": 4.6,
+      "reviews": 167,
+      "description": "Lightweight leave-in conditioner for detangling and moisture.",
+      "image": "/assets/cosmetics/hair_care/hair4.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-005",
+      "name": "Heat Protectant Spray",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 700,
+      "sku": "COSM-HAIR-005",
+      "rating": 4.4,
+      "reviews": 98,
+      "description": "Protects hair from heat damage up to 450°F. Lightweight formula.",
+      "image": "/assets/cosmetics/hair_care/hair5.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-006",
+      "name": "Keratin Treatment Kit",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1000,
+      "sku": "COSM-HAIR-006",
+      "rating": 4.9,
+      "reviews": 78,
+      "description": "Professional keratin treatment for smooth, straight hair for weeks.",
+      "image": "/assets/cosmetics/hair_care/hair6.jpg",
+      "tags": [
+        "sale",
+        "featured"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-007",
+      "name": "Hair Growth Oil",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 700,
+      "sku": "COSM-HAIR-007",
+      "rating": 4.7,
+      "reviews": 312,
+      "description": "Stimulating hair growth oil with castor, rosemary, and peppermint.",
+      "image": "/assets/cosmetics/hair_care/hair7.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-008",
+      "name": "Edge Control Gel",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 800,
+      "sku": "COSM-HAIR-008",
+      "rating": 4.3,
+      "reviews": 267,
+      "description": "Strong hold edge control for sleek, laid edges without flaking.",
+      "image": "/assets/cosmetics/hair_care/hair8.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-009",
+      "name": "Protein Treatment",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 600,
+      "sku": "COSM-HAIR-009",
+      "rating": 4.6,
+      "reviews": 89,
+      "description": "Strengthening protein treatment for weak, damaged hair.",
+      "image": "/assets/cosmetics/hair_care/hair9.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-010",
+      "name": "Scalp Treatment Serum",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1000,
+      "sku": "COSM-HAIR-010",
+      "rating": 4.5,
+      "reviews": 156,
+      "description": "Soothing scalp serum for dry, itchy scalp. Promotes healthy hair growth.",
+      "image": "/assets/cosmetics/hair_care/hair10.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-011",
+      "name": "Volumizing Mousse",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 800,
+      "sku": "COSM-HAIR-011",
+      "rating": 4.4,
+      "reviews": 78,
+      "description": "Lightweight mousse for volume and body without stiffness.",
+      "image": "/assets/cosmetics/hair_care/hair11.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-012",
+      "name": "Anti-Frizz Serum",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1600,
+      "sku": "COSM-HAIR-012",
+      "rating": 4.7,
+      "reviews": 198,
+      "description": "Smoothing serum that tames frizz and adds brilliant shine.",
+      "image": "/assets/cosmetics/hair_care/hair12.jpg",
+      "tags": [
+        "featured"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-013",
+      "name": "Curl Defining Cream",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1400,
+      "sku": "COSM-HAIR-013",
+      "rating": 4.6,
+      "reviews": 234,
+      "description": "Defines and enhances natural curls without crunch or buildup.",
+      "image": "/assets/cosmetics/hair_care/hair13.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-014",
+      "name": "Detangling Spray",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 900,
+      "sku": "COSM-HAIR-014",
+      "rating": 4.3,
+      "reviews": 145,
+      "description": "Instant detangling spray for knot-free, manageable hair.",
+      "image": "/assets/cosmetics/hair_care/hair14.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-015",
+      "name": "Hot Oil Treatment",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1100,
+      "sku": "COSM-HAIR-015",
+      "rating": 4.5,
+      "reviews": 167,
+      "description": "Nourishing hot oil treatment for deep conditioning and repair.",
+      "image": "/assets/cosmetics/hair_care/hair15.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-016",
+      "name": "Hair Bonding Glue",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 500,
+      "sku": "COSM-HAIR-016",
+      "rating": 4.2,
+      "reviews": 89,
+      "description": "Strong hold bonding glue for wig and weave installation.",
+      "image": "/assets/cosmetics/hair_care/hair16.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-017",
+      "name": "Wig Glue Remover",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 600,
+      "sku": "COSM-HAIR-017",
+      "rating": 4.4,
+      "reviews": 112,
+      "description": "Gentle adhesive remover for safe wig removal without damage.",
+      "image": "/assets/cosmetics/hair_care/hair17.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-018",
+      "name": "Silk Press Spray",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1300,
+      "sku": "COSM-HAIR-018",
+      "rating": 4.6,
+      "reviews": 178,
+      "description": "Thermal protection spray for silk press and flat iron styling.",
+      "image": "/assets/cosmetics/hair_care/hair18.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-019",
+      "name": "Coconut Hair Butter",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1200,
+      "sku": "COSM-HAIR-019",
+      "rating": 4.5,
+      "reviews": 234,
+      "description": "Rich coconut butter for deep moisture and natural shine.",
+      "image": "/assets/cosmetics/hair_care/hair19.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-020",
+      "name": "Wig Conditioner Spray",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 800,
+      "sku": "COSM-HAIR-020",
+      "rating": 4.3,
+      "reviews": 145,
+      "description": "Leave-in conditioner spray specifically formulated for wigs.",
+      "image": "/assets/cosmetics/hair_care/hair20.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-021",
+      "name": "Clarifying Shampoo",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1000,
+      "sku": "COSM-HAIR-021",
+      "rating": 4.4,
+      "reviews": 98,
+      "description": "Deep cleansing shampoo to remove product buildup.",
+      "image": "/assets/cosmetics/hair_care/hair21.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-022",
+      "name": "Moisturizing Co-Wash",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1100,
+      "sku": "COSM-HAIR-022",
+      "rating": 4.5,
+      "reviews": 187,
+      "description": "Gentle cleansing conditioner for low-poo hair routines.",
+      "image": "/assets/cosmetics/hair_care/hair22.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-023",
+      "name": "Twist & Loc Gel",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 750,
+      "sku": "COSM-HAIR-023",
+      "rating": 4.3,
+      "reviews": 156,
+      "description": "Styling gel for twists, locs, and braids. Non-flaking formula.",
+      "image": "/assets/cosmetics/hair_care/hair23.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-024",
+      "name": "Biotin Hair Vitamins",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 2500,
+      "discountPrice": 2000,
+      "sku": "COSM-HAIR-024",
+      "rating": 4.7,
+      "reviews": 289,
+      "description": "Hair growth vitamins with biotin, collagen, and keratin.",
+      "image": "/assets/cosmetics/hair_care/hair24.jpg",
+      "tags": [
+        "sale",
+        "featured"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-025",
+      "name": "Wig Shampoo",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 900,
+      "sku": "COSM-HAIR-025",
+      "rating": 4.4,
+      "reviews": 167,
+      "description": "Gentle shampoo for human hair and synthetic wigs.",
+      "image": "/assets/cosmetics/hair_care/hair25.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-026",
+      "name": "Lace Melting Spray",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1200,
+      "sku": "COSM-HAIR-026",
+      "rating": 4.6,
+      "reviews": 234,
+      "description": "Professional lace melting spray for seamless wig installation.",
+      "image": "/assets/cosmetics/hair_care/hair26.jpg",
+      "tags": [
+        "bestseller"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-027",
+      "name": "Scalp Refresher Spray",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 700,
+      "sku": "COSM-HAIR-027",
+      "rating": 4.3,
+      "reviews": 123,
+      "description": "Cooling scalp spray for itch relief under wigs and weaves.",
+      "image": "/assets/cosmetics/hair_care/hair27.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-028",
+      "name": "Jamaican Black Castor Oil",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1500,
+      "sku": "COSM-HAIR-028",
+      "rating": 4.8,
+      "reviews": 345,
+      "description": "Pure Jamaican black castor oil for hair growth and thickness.",
+      "image": "/assets/cosmetics/hair_care/hair28.jpg",
+      "tags": [
+        "bestseller",
+        "featured"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-029",
+      "name": "Wig Grip Band",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 800,
+      "sku": "COSM-HAIR-029",
+      "rating": 4.5,
+      "reviews": 198,
+      "description": "Adjustable velvet wig grip for secure, glueless hold.",
+      "image": "/assets/cosmetics/hair_care/hair29.jpg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "cosmetic-hair-030",
+      "name": "Hair Finishing Spray",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 950,
+      "sku": "COSM-HAIR-030",
+      "rating": 4.4,
+      "reviews": 134,
+      "description": "Light hold finishing spray for flyaway control and shine.",
+      "image": "/assets/cosmetics/hair_care/hair30.jpg",
+      "tags": []
+    },
+    {
+      "id": "cosmetic-hair-031",
+      "name": "Tea Tree Scalp Oil",
+      "category": "Cosmetics",
+      "subCategory": "Hair Care",
+      "price": 1100,
+      "sku": "COSM-HAIR-031",
+      "rating": 4.6,
+      "reviews": 167,
+      "description": "Antibacterial tea tree oil for healthy scalp maintenance.",
+      "image": "/assets/cosmetics/hair_care/hair31.jpg",
+      "tags": []
+    },
+    {
+      "id": "dummy-big-001",
+      "name": "Mannequin Head - Big/Long A",
+      "category": "Dummies",
+      "subCategory": "Big/Long",
+      "price": 1600,
+      "sku": "DUMMY-BIG-001",
+      "rating": 4.5,
+      "reviews": 34,
+      "description": "Large mannequin head for styling and display of long wigs.",
+      "image": "/assets/dummies_items/big_long/big_dummies1.jpeg",
+      "tags": [
+        "new"
+      ]
+    },
+    {
+      "id": "dummy-big-002",
+      "name": "Mannequin Head - Big/Long B",
+      "category": "Dummies",
+      "subCategory": "Big/Long",
+      "price": 1600,
+      "sku": "DUMMY-BIG-002",
+      "rating": 4.6,
+      "reviews": 28,
+      "description": "Premium mannequin head for professional wig styling.",
+      "image": "/assets/dummies_items/big_long/big_dummies2.jpeg",
+      "tags": []
+    },
+    {
+      "id": "dummy-small-001",
+      "name": "Mannequin Head - Small/Short",
+      "category": "Dummies",
+      "subCategory": "Small/Short",
+      "price": 1000,
+      "sku": "DUMMY-SMALL-001",
+      "rating": 4.4,
+      "reviews": 42,
+      "description": "Compact mannequin head for short wig styling and storage.",
+      "image": "/assets/dummies_items/small_short/small_dummies.jpeg",
+      "tags": [
+        "bestseller"
+      ]
+    }
+  ]
+}

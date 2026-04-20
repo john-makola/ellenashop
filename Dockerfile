@@ -28,6 +28,6 @@ RUN npx prisma generate
 
 COPY --from=builder /app/dist ./dist
 
-ENV PORT=3001
+EXPOSE 8096
 
 CMD ["sh", "-c", "npx prisma db push --skip-generate || true; node dist/index.js"]

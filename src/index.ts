@@ -49,7 +49,7 @@ app.use("/api/adverts", advertRoutes);
 app.use("/api/dashboard", dashboardRoutes);
 
 // 404 handler for unknown API routes
-app.use("/api/*", (_req, res) => {
+app.use("/api/{*path}", (_req, res) => {
   res.status(404).json({ error: "API endpoint not found" });
 });
 

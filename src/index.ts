@@ -66,7 +66,7 @@ app.use(
   }
 );
 
-app.listen(PORT, () => {
+app.listen(Number(PORT), "0.0.0.0", () => {
   console.log(`Ellena Beauty API running on port ${PORT}`);
 });
 

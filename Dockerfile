@@ -30,4 +30,4 @@ COPY --from=builder /app/dist ./dist
 
 EXPOSE 8096
 
-CMD ["sh", "-c", "npx prisma db push --skip-generate --accept-data-loss || true && npx prisma db seed || true && node dist/index.js"]
+CMD ["node", "dist/index.js"]

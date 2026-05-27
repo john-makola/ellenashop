@@ -50,7 +50,9 @@ model Product {
   subCategory     String?
   subSubCategory  String?
   image           String?
+  images          String[]  @default([])
   video           String?
+  videos          String[]  @default([])
   rating          Float    @default(0)
   reviews         Int      @default(0)
   inStock         Boolean  @default(true)

@@ -4,6 +4,14 @@ import { requireAdmin } from "../lib/auth.js";
 
 const router = Router();
 
+// Helper: traverse category parent chain to find root category name
+type CategoryNode = { name: string; slug: string; parent?: CategoryNode | null };
+const getRootCategoryName = (cat: CategoryNode | null | undefined): string | undefined => {
+  if (!cat) return undefined;
+  if (!cat.parent) return cat.name;
+  return getRootCategoryName(cat.parent);
+};
+
 // Helper: slugify
 const slugify = (text: string): string =>
   text
@@ -55,7 +63,19 @@ router.get("/", async (req: Request, res: Response) => {
       orderBy,
       include: {
         tags: { select: { tag: true } },
-        category: { select: { name: true, slug: true } },
+        category: {
+          select: {
+            name: true,
+            slug: true,
+            parent: {
+              select: {
+                name: true,
+                slug: true,
+                parent: { select: { name: true, slug: true } },
+              },
+            },
+          },
+        },
       },
     });
 
@@ -66,11 +86,13 @@ router.get("/", async (req: Request, res: Response) => {
       description: p.description,
       price: p.price,
       discountPrice: p.discountPrice,
-      category: p.category?.name,
+      category: getRootCategoryName(p.category as CategoryNode | null),
       subCategory: p.subCategory,
       subSubCategory: p.subSubCategory,
       image: p.image,
+      images: p.images || [],
       video: p.video,
+      videos: p.videos || [],
       rating: p.rating,
       reviews: p.reviews,
       tags: p.tags.map((t) => t.tag),
@@ -92,7 +114,19 @@ router.get("/:id", async (req: Request, res: Response) => {
       where: { id },
       include: {
         tags: { select: { tag: true } },
-        category: { select: { name: true, slug: true } },
+        category: {
+          select: {
+            name: true,
+            slug: true,
+            parent: {
+              select: {
+                name: true,
+                slug: true,
+                parent: { select: { name: true, slug: true } },
+              },
+            },
+          },
+        },
       },
     });
 
@@ -109,15 +143,21 @@ router.get("/:id", async (req: Request, res: Response) => {
       description: rest.description,
       price: rest.price,
       discountPrice: rest.discountPrice,
-      category: category?.name || null,
+      categoryId: rest.categoryId || null,
+      category: getRootCategoryName(category as CategoryNode | null),
       subCategory: rest.subCategory,
       subSubCategory: rest.subSubCategory,
       image: rest.image,
+      images: rest.images || [],
       video: rest.video,
+      videos: rest.videos || [],
       rating: rest.rating,
       reviews: rest.reviews,
       tags: tags.map((t: { tag: string }) => t.tag),
       sku: rest.sku,
+      inStock: rest.inStock,
+      isActive: rest.isActive,
+      isFeatured: rest.isFeatured,
     });
   } catch (error) {
     console.error("Product detail error:", error);
@@ -190,7 +230,9 @@ router.post(
         subCategory,
         subSubCategory,
         image,
+        images,
         video,
+        videos,
         rating,
         reviews,
         tags,
@@ -218,7 +260,9 @@ router.post(
           subCategory: subCategory || null,
           subSubCategory: subSubCategory || null,
           image: image || null,
+          images: Array.isArray(images) ? images : [],
           video: video || null,
+          videos: Array.isArray(videos) ? videos : [],
           rating: rating ? parseFloat(rating) : 0,
           reviews: reviews ? parseInt(reviews) : 0,
           inStock: inStock !== false,
@@ -267,7 +311,9 @@ router.patch(
         subCategory,
         subSubCategory,
         image,
+        images,
         video,
+        videos,
         rating,
         reviews,
         tags,
@@ -299,7 +345,9 @@ router.patch(
       if (subSubCategory !== undefined)
         data.subSubCategory = subSubCategory || null;
       if (image !== undefined) data.image = image || null;
+      if (images !== undefined) data.images = Array.isArray(images) ? images : [];
       if (video !== undefined) data.video = video || null;
+      if (videos !== undefined) data.videos = Array.isArray(videos) ? videos : [];
       if (rating !== undefined) data.rating = parseFloat(rating);
       if (reviews !== undefined) data.reviews = parseInt(reviews);
       if (inStock !== undefined) data.inStock = inStock;

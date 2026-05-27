@@ -190,13 +190,12 @@ async function main() {
 
     let created = 0;
     for (const p of products) {
-      const categoryName =
-        p.subSubCategory || p.subCategory || p.category;
-      const categoryId =
-        categoryMap.get(categoryName) || categoryMap.get(p.category);
+      // Always assign categoryId to the root category so the API can return
+      // the correct top-level category name for filtering.
+      const categoryId = categoryMap.get(p.category);
       if (!categoryId) {
         console.warn(
-          `Skipping product ${p.id}: no category match for "${categoryName}"`
+          `Skipping product ${p.id}: no category match for "${p.category}"`
         );
         continue;
       }

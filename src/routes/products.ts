@@ -12,6 +12,23 @@ const getRootCategoryName = (cat: CategoryNode | null | undefined): string | und
   return getRootCategoryName(cat.parent);
 };
 
+// Helper: derive subcategory name from the category chain
+// Level-2 cat (parent exists, grandparent doesn't) → cat.name is the subCategory
+// Level-3 cat (grandparent exists) → cat.parent.name is the subCategory
+const getSubCategoryFromChain = (cat: CategoryNode | null | undefined): string | undefined => {
+  if (!cat) return undefined;
+  if (cat.parent?.parent) return cat.parent.name; // level 3 → parent is level 2
+  if (cat.parent) return cat.name;                // level 2 → cat itself
+  return undefined;                               // level 1 root → no subCategory
+};
+
+// Helper: derive sub-sub-category name from chain (only for level-3 cats)
+const getSubSubCategoryFromChain = (cat: CategoryNode | null | undefined): string | undefined => {
+  if (!cat) return undefined;
+  if (cat.parent?.parent) return cat.name;        // level 3 → cat itself
+  return undefined;
+};
+
 // Helper: slugify
 const slugify = (text: string): string =>
   text
@@ -87,8 +104,8 @@ router.get("/", async (req: Request, res: Response) => {
       price: p.price,
       discountPrice: p.discountPrice,
       category: getRootCategoryName(p.category as CategoryNode | null),
-      subCategory: p.subCategory,
-      subSubCategory: p.subSubCategory,
+      subCategory: p.subCategory ?? getSubCategoryFromChain(p.category as CategoryNode | null),
+      subSubCategory: p.subSubCategory ?? getSubSubCategoryFromChain(p.category as CategoryNode | null),
       image: p.image,
       images: p.images || [],
       video: p.video,
@@ -145,8 +162,8 @@ router.get("/:id", async (req: Request, res: Response) => {
       discountPrice: rest.discountPrice,
       categoryId: rest.categoryId || null,
       category: getRootCategoryName(category as CategoryNode | null),
-      subCategory: rest.subCategory,
-      subSubCategory: rest.subSubCategory,
+      subCategory: rest.subCategory ?? getSubCategoryFromChain(category as CategoryNode | null),
+      subSubCategory: rest.subSubCategory ?? getSubSubCategoryFromChain(category as CategoryNode | null),
       image: rest.image,
       images: rest.images || [],
       video: rest.video,
